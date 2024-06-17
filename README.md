@@ -1,11 +1,10 @@
-
+Artificial Intelligence (AI) is a broad field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, perception, and even the ability to move and manipulate objects. AI aims to replicate or simulate human intelligence in machines, enabling them to function autonomously and adapt to new situations.
 
 <p align="center">
-  <img width="500" alt="ML" src="https://github.com/ties2/MachineLearning/assets/17667404/b731f6cf-9a2f-44e3-8666-8d7e77633bb0">
+  <img width="600" alt="ML" src="https://github.com/ties2/MachineLearning/assets/17667404/b731f6cf-9a2f-44e3-8666-8d7e77633bb0">
 </p>
 
 
-Artificial Intelligence (AI) is a broad field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, perception, and even the ability to move and manipulate objects. AI aims to replicate or simulate human intelligence in machines, enabling them to function autonomously and adapt to new situations.
 
 - Types of Artificial Intelligence
 AI can be categorized into different types based on their capabilities and functionalities:
